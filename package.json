@@ -1,0 +1,22 @@
+{
+  "name": "playgrounds",
+  "version": "1.0.0",
+  "description": "a new platform for online party games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galactisphere/playgrounds.git"
+  },
+  "keywords": [
+    "party-game"
+  ],
+  "author": "Jonathan Yeo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galactisphere/playgrounds/issues"
+  },
+  "homepage": "https://github.com/galactisphere/playgrounds#readme"
+}
